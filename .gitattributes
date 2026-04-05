@@ -1,0 +1,4 @@
+case1 shengyuPINN/** filter=lfs diff=lfs merge=lfs -text
+case2 shengyuPINN/** filter=lfs diff=lfs merge=lfs -text
+case3  RAsuanfa/** filter=lfs diff=lfs merge=lfs -text
+case4 shengyuPINN/** filter=lfs diff=lfs merge=lfs -text
